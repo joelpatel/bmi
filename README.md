@@ -13,5 +13,5 @@ This is a simple ("distributed" in the sense of packages) BMI calculator built u
 * `go build .`
 * `./bmi`
 
-## To directly run this packages, execute following commands
+## To directly run this packages, execute following command
 * `go run .`
