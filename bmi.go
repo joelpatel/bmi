@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/joelpatel/bmi/calculateBMI"
-	"github.com/joelpatel/bmi/convert"
-	"github.com/joelpatel/bmi/input"
-	"github.com/joelpatel/bmi/print"
+	"github.com/joelpatel/bmi/packages/calculateBMI"
+	"github.com/joelpatel/bmi/packages/convert"
+	"github.com/joelpatel/bmi/packages/input"
+	"github.com/joelpatel/bmi/packages/print"
 )
 
 func main() {

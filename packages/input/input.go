@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/joelpatel/bmi/info"
+	"github.com/joelpatel/bmi/packages/info"
 )
 
 var reader = bufio.NewReader(os.Stdin)

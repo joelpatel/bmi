@@ -3,7 +3,7 @@ package print
 import (
 	"fmt"
 
-	"github.com/joelpatel/bmi/info"
+	"github.com/joelpatel/bmi/packages/info"
 )
 
 func Print_header() {
